@@ -9,6 +9,6 @@
 3. Install requirements:
    ```bash
    pip install -r requirements.txt
-4. Run Docker container:
+4. Run script:
    ```bash
    main.py
